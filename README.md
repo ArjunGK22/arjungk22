@@ -1,5 +1,5 @@
 **👋 Hello, I’m Arjun G K!**
-- 👀 I’m interested in :iphone:**Mobile App Developement** & **Ethical Hacking**:male_detective:	
+- 👀 I’m interested in :iphone:**Mobile App Developement** & **Web Development**:male_detective:	
 - 🌱 I’m currently learning **Flutter** 
 - 📫 You can reach me on LinkedIn and here is my link ---> linkedin.com/in/arjun-g-k-336501223
 - :boy: Pronouns: He/His
