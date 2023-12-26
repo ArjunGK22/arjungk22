@@ -1,10 +1,32 @@
-**👋 Hello, I’m Arjun G K!**
-- 👀 I’m interested in :iphone:**Mobile App Developement** & **Web Development**:male_detective:	
-- 🌱 I’m currently learning **Flutter** 
-- 📫 You can reach me on LinkedIn and here is my link ---> linkedin.com/in/arjun-g-k-336501223
-- :boy: Pronouns: He/His
+# 👋 Hello, I'm Arjun G K!
 
-<!---
-ArjunGK22/ArjunGK22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about mobile app development and web development. Currently learning Flutter.
+
+## 🚀 Skills
+
+- Mobile App Development: Flutter, [Other Frameworks/Languages]
+- Web Development: HTML, CSS, JavaScript, [Frontend/Backend Frameworks]
+- Robert Operating System (ROS)
+- 
+
+## 🌱 I'm Currently Learning
+
+- Flutter
+
+## 🔧 Tools & Technologies
+
+- ROS Framework
+- Django
+- 
+
+## 📫 Connect with Me
+
+- LinkedIn: [Arjun G K](https://www.linkedin.com/in/arjun-g-k-336501223)
+- Email: arjungkanikeri@gmail.com
+
+## 🤝 Let's Collaborate
+
+- Open to collaboration on projects related to Web Development, Application Development
+- Feel free to reach out if you have any interesting ideas or projects!
+
+
