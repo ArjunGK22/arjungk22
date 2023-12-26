@@ -7,7 +7,6 @@ Passionate about mobile app development and web development. Currently learning 
 - Mobile App Development: Flutter, [Other Frameworks/Languages]
 - Web Development: HTML, CSS, JavaScript, [Frontend/Backend Frameworks]
 - Robert Operating System (ROS)
-- 
 
 ## 🌱 I'm Currently Learning
 
