@@ -17,7 +17,6 @@ Passionate about mobile app development and web development. Currently learning 
 
 - ROS Framework
 - Django
-- 
 
 ## 📫 Connect with Me
 
