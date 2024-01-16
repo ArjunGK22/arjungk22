@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arjun G K</h1>
 <h3 align="center">Passionate about mobile app development and web development. Currently learning ROS.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungk22&label=Profile%20views&color=0e75b6&style=flat" alt="arjungk22" /> </p>
 
 - 🔭 I’m currently working on **ROS**
