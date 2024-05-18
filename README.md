@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungk22&label=Profile%20views&color=0e75b6&style=flat" alt="arjungk22" /> </p>
 
-- 🔭 I’m currently working on **ROS**
+- 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **Laravel, Next.js, TypeScript**
 
 - 💬 Ask me about **Android, API**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arjun-g-k-336501223/**
-
-- ⚡ Fun fact **I think I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
